@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whiteboard", "whiteboard\whiteboard.csproj", "{10BE86C0-2430-43E1-8DF3-09A15ED72EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj", "{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BE86C0-2430-43E1-8DF3-09A15ED72EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BE86C0-2430-43E1-8DF3-09A15ED72EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BE86C0-2430-43E1-8DF3-09A15ED72EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BE86C0-2430-43E1-8DF3-09A15ED72EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60F3794E-C4AD-4789-A57A-1D924AB12E11}
+	EndGlobalSection
+EndGlobal
