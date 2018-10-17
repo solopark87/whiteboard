@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whiteboard", "whiteboard\wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj", "{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonjour", "Bonjour\Bonjour.csproj", "{794549AE-4C41-4A34-9BE6-21550BE11007}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F5BB45-A976-4216-BDB8-BAECCF144C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794549AE-4C41-4A34-9BE6-21550BE11007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794549AE-4C41-4A34-9BE6-21550BE11007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794549AE-4C41-4A34-9BE6-21550BE11007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794549AE-4C41-4A34-9BE6-21550BE11007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
