@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hello", "hello\hello.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bonjour", "Bonjour\Bonjour.csproj", "{794549AE-4C41-4A34-9BE6-21550BE11007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumerals\RomanNumerals.csproj", "{0D21B773-7DB9-4ABF-A8D6-71ACBC864214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{794549AE-4C41-4A34-9BE6-21550BE11007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{794549AE-4C41-4A34-9BE6-21550BE11007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{794549AE-4C41-4A34-9BE6-21550BE11007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D21B773-7DB9-4ABF-A8D6-71ACBC864214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D21B773-7DB9-4ABF-A8D6-71ACBC864214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D21B773-7DB9-4ABF-A8D6-71ACBC864214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D21B773-7DB9-4ABF-A8D6-71ACBC864214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
