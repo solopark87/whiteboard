@@ -1,5 +1,5 @@
-# whiteboard
-This is the solution repository for practice coding challenges
+# Whiteboard
+This is the solutions repository for practice coding challenges
 
 Projects listed in order of complexity and date created
 
